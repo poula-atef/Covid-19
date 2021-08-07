@@ -8,3 +8,7 @@ all over the world and he/she can know them for any single country by searching 
 - RestApi (Retrofit)
 - Glide
 - ButterKnife
+
+
+![Screenshot_20210807-164352](https://user-images.githubusercontent.com/62244215/128614972-1fedaceb-90fd-4b54-88c7-64c6f0f0fe83.png)
+![Screenshot_20210807-164440](https://user-images.githubusercontent.com/62244215/128614987-f1706c45-d91f-4f19-a513-e13b14fe0754.png)
